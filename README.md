@@ -25,4 +25,4 @@ In Chrome, proceed to:
 
 Please visit my GitHub repo here: ![GitHub](https://github.com/ObviousEcho/PWA-text-editor)
 
-Please visit the deployed application on: ![Heroku]()
+Please visit the deployed application on: ![Heroku](https://safe-escarpment-02114.herokuapp.com/)
